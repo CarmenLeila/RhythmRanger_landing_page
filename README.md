@@ -1,4 +1,4 @@
-<img src="https://imgur.com/IdFy9iZ/png" alt="RhythmRanger Logo" width="100%"/>
+<img src="https://imgur.com/IdFy9iZ" alt="RhythmRanger Logo" width="100%"/>
 
 <h2 align="center">Portfolio Project 2024</h2>
 
@@ -27,7 +27,7 @@ For this page, I used :
 
 # 👥 Team
 
-Please, do not hesitate to contact me : 👸 **Carmen Leila MUGISHA** on [Linkedin](https://www.linkedin.com/in/CarmenLeila/) and on [Github](https://github.com/CarmenLeila)
+Please, do not hesitate to contact me : 👸 **Carmen Leila MUGISHA** on [Linkedin](https://www.linkedin.com/feed/) and on [Github](https://github.com/CarmenLeila)
 
 # 🙏 Acknowledgements
 
