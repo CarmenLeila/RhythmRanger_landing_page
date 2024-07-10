@@ -1,10 +1,10 @@
-<img src="https://imgur.com/IdFy9iZ" alt="RhythmRanger Logo" width="100%"/>
+<img src="RhythmRanger_logo\ -\ Imgur.png " alt="RhythmRanger Logo" width="100%"/>
 
 <h2 align="center">Portfolio Project 2024</h2>
 
 # 💡 Introducing RhythmRanger
 
-RhythmRanger is my end of the first year portfolio at Holberton School,at the Campus Lille France.It is a music application for all music's lovers in the world that is here to explore new musical horizons with every loved song.You can check on my landing page
+RhythmRanger is my end of the first year portfolio at Holberton School,at the Campus Lille France.It is a music application for all music's lovers in the world that is here to explore new musical horizons with every loved song.You can check on my landing page(https://carmenleila.github.io/RhythmRanger_landing_page/)
 
 In summary, RhythmRanger offers varied and personalized musical discoveries, helping users to explore different genders, artists and musical styles that they might not have found on their own.It uses advanced algorithms to recommend new songs that are from different places.
 
